@@ -83,3 +83,7 @@ If successful, you will see a simple message confirming Streamlit is installed.
 ## 📜 License
 This project is **open-source** and free to use. Contributions are welcome! 🚀
 
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT4o-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
+![License](https://img.shields.io/badge/License-MIT-green)
